@@ -1,0 +1,48 @@
+/* .skill-card {
+  width: 130px;
+  height: 160px;
+  background: #071a38;
+  border: 1px solid rgba(0, 140, 255, 0.2);
+  border-radius: 12px;
+  padding: 15px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 0 15px rgba(0, 140, 255, 0.1);
+}
+
+.skill-icon {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
+  margin-top: 5px;
+}
+
+.skill-name {
+  color: white;
+  font-size: 16px;
+  margin: 8px 0 15px;
+  font-weight: 500;
+}
+
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #1e90ff;
+  border-radius: 10px;
+}
+
+.progress-text {
+  position: absolute;
+  right: 15px;
+  bottom: 22px;
+  color: #7fbfff;
+  font-size: 12px;
+  font-weight: 600;
+} */
