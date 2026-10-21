@@ -22,7 +22,7 @@ const projects = [
     tech: ["React", "Node.js", "Express", "MongoDB"],
     icon: "💼",
     color: "purple",
-    demo: "",
+    demo: "https://job-portal-application-1-mrs6.onrender.com/",
     github: "https://github.com/bittu90060/Job-Portal-Application",
   },
   {
