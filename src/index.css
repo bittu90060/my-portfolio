@@ -1,0 +1,16 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Poppins,sans-serif;
+}
+
+body{
+background:#050b1f;
+color:white;
+}
+
+.photo {
+  width: 200px;
+  height: 20px;
+}

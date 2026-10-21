@@ -1,0 +1,32 @@
+.footer-bar {
+  width: 1320px;
+  background: #07142d;
+  border: 1px solid #1e3a8a;
+  border-radius: 10px;
+  padding: 12px 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+
+  color: white;
+  font-size: 12px;
+  overflow-x: auto;
+  white-space: nowrap;
+
+  margin-top: 30px;
+  position: absolute;
+  top: 750px;
+  left: 255px;
+}
+
+.footer-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.footer-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
