@@ -56,7 +56,7 @@ const projects = [
     tech: ["React", "Node.js", "Socket.io", "WebRTC"],
     icon: "📹",
     color: "pink",
-    demo: "",
+    demo: "video-callforntend1.onrender.com/",
     github: "https://github.com/bittu90060/video-call",
   },
   {
@@ -67,7 +67,7 @@ const projects = [
     tech: ["Node.js", "Express", "MongoDB", "EJS"],
     icon: "🌍",
     color: "cyan",
-    demo: "",
+    demo: "project-phase-7.onrender.com/listings",
     github: "https://github.com/bittu90060/wanderlust-project",
   },
 ];
