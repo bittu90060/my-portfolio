@@ -56,7 +56,7 @@ const projects = [
     tech: ["React", "Node.js", "Socket.io", "WebRTC"],
     icon: "📹",
     color: "pink",
-    demo: "video-callforntend1.onrender.com/",
+    demo: "https://video-callforntend1.onrender.com/",
     github: "https://github.com/bittu90060/video-call",
   },
   {
