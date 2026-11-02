@@ -67,7 +67,7 @@ const projects = [
     tech: ["Node.js", "Express", "MongoDB", "EJS"],
     icon: "🌍",
     color: "cyan",
-    demo: "project-phase-7.onrender.com/listings",
+    demo: "https://project-phase-7.onrender.com/listings",
     github: "https://github.com/bittu90060/wanderlust-project",
   },
 ];
